@@ -1,6 +1,10 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Models\Album;
+use App\Models\Song;
+use App\Models\Singer;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
